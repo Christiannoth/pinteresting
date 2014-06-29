@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+
+$body-bg: 						#34495e;
+$font-family-sans-serif:		'Raleway','Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-sans-serif-color:	#34495e;
+$navbar-height:  				60px;
+$text-color: 					white;
+$jumbotron-heading-color: 		#34495e;
+$jumbotron-color: 				Black;
+$navbar-default-bg: 			white;
+$navbar-default-link-color: 	#34495e;
+$navbar-default-brand-color: 	#34495e;
+$btn-lg-default-bg: 			#7f8c8d;
+$btn-lg-primary-bg: 			red;
+$btn-default-bg:				Gray;
+
+
+
+@import "bootstrap";
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
