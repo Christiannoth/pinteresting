@@ -20,5 +20,4 @@ end
 
 group :doc do
 	gem 'sdoc', '~> 0.4.0',
-	gem 'spring',        group: :development
 end
